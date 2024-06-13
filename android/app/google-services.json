@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "440165350871",
+    "firebase_url": "https://test-smart-control-default-rtdb.firebaseio.com",
+    "project_id": "test-smart-control",
+    "storage_bucket": "test-smart-control.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440165350871:android:1f584e6432795913071f92",
+        "android_client_info": {
+          "package_name": "com.example.btl_t"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440165350871-lot0rm9b9urlfekbdlbibbppet5enhab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrXHBxPUp7Oa0JDzBE0-d5NmE_NZDRr1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440165350871-lot0rm9b9urlfekbdlbibbppet5enhab.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440165350871-0g896kv0jmerh0uddj09u7m4ibj7rlfj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.btlt"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440165350871:android:f83c79fade1acaae071f92",
+        "android_client_info": {
+          "package_name": "com.example.t_btl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440165350871-lot0rm9b9urlfekbdlbibbppet5enhab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrXHBxPUp7Oa0JDzBE0-d5NmE_NZDRr1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440165350871-lot0rm9b9urlfekbdlbibbppet5enhab.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440165350871-0g896kv0jmerh0uddj09u7m4ibj7rlfj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.btlt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
